@@ -1,4 +1,4 @@
-Final Output (Avaliable in ![This CSV](#final_submission_output.csv)):
+Final Output (Avaliable in **final_submission_output.csv**):
 
 |respondent_id|xyz_vaccine|seasonal_vaccine|
 |:---:|:---:|:---:|
